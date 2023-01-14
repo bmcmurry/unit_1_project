@@ -560,7 +560,7 @@ subclass_features = {
     ],
     "Oath of Devotion": [
         ["Channel Divinity: Sacred Weapon"],
-        ["Channel Divinity: Turn the unholy"],
+        ["Channel Divinity: Turn the Unholy"],
         ["Aura of Devotion"],
         ["Purity of Spirit"],
         ["Holy Nimbus"],
